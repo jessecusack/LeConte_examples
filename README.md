@@ -6,6 +6,8 @@ The tutorial below works on my macbook pro running MacOS 10.15. I can't guarante
 
 ## Setting up jupyter lab
 
+Jupyter lab is a great development environment for scientific code. It works with many programming languages, but is particularly suited to python. [You can try it out in the cloud](https://jupyter.org/try) without installing anything. For working on a personal computer it is better to install it directly. 
+
 If you don't have it already, install the python package manager [miniconda](https://docs.conda.io/en/latest/miniconda.html). 
 
 When working with conda I find most packages are available on the [conda-forge](https://conda-forge.org/#page-top) channel. To make sure conda knows to use this channel, enter the following in your terminal.
